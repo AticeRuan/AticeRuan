@@ -16,6 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=AticeRuan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AticeRuan&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
